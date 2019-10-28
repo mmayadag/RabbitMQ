@@ -7,7 +7,8 @@
 
 ## Macos
 ### The Homebrew RabbitMQ Formula
-#### Installation
+
+**Installation**
 Before installing make sure the taps are up-to-date:
 
 brew **update**
